@@ -24,7 +24,7 @@
 1) Adjusted Rand Index (ARI)
 
 - from Incidence Matrix
-- $\frac{1}{\frac{1}{2}\[\displaystyle\sum_{i}{}\]}$
+- $\frac{1}{\frac{1}{2}\[\displaystyle\sum_{i}{\begin{Vmatrix}1\\3\\ \end{Vmatrix}}\]}$
 
 
 <!-- - $\displaystyle\sum_{i}^{j}{}$ -->
