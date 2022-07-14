@@ -21,11 +21,7 @@
 
 ### Task 2
 
-1) Adjusted Rand Index (ARI): https://p829911.github.io/2019/01/05/clustering/
+1) Adjusted Rand Index (ARI):
 
-- from Incidence Matrix
-- <img width="371" alt="Capture" src="https://user-images.githubusercontent.com/56618962/178934175-a4e9077c-0152-4817-8237-114909758b34.PNG">
-
-
-
-<!-- - $\displaystyle\sum_{i}^{j}{}$ -->
+- Rand Index: https://taeguu.tistory.com/52
+- Adjusted Rand Index (ARI): https://taeguu.tistory.com/53?category=829266
