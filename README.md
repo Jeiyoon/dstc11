@@ -13,7 +13,7 @@
 
 1) Normalized Mutual Information (NMI)
 
-- $NMI = \frac{a}{b}$
+- $NMI = \frac{reference_labels}{clustered_labels}$
 
 - s
 
