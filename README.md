@@ -11,9 +11,17 @@
 
 ## Metric
 
+### Task 1
+
 1) Normalized Mutual Information (NMI)
 
-  - $NMI = \frac{I(X;Y)}{min(H(X), H(Y))}$
-  - where, $X$ denotes Reference labels and $Y$ stands for clustered labels
+- $NMI = \frac{I(X;Y)}{min(H(X), H(Y))}$
+- where, $X$ denotes Reference labels and $Y$ stands for clustered labels
 
-2) 
+
+### Task 2
+
+1) Adjusted Rand Index (ARI)
+
+- from Incidence Matrix
+- $\sum$
