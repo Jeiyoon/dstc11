@@ -13,6 +13,8 @@
 
 1) Normalized Mutual Information (NMI)
 
+- $NMI = \frac{a}{b}$
+
 - s
 
 2) 
