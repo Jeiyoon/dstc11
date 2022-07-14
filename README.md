@@ -24,4 +24,4 @@
 1) Adjusted Rand Index (ARI)
 
 - from Incidence Matrix
-- $\displaystyle\sum_{i}$
+- $\displaystyle\sum_{i}^{j}{}$
