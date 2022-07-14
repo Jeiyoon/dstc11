@@ -13,8 +13,7 @@
 
 1) Normalized Mutual Information (NMI)
 
-- $NMI = \frac{\text{reference labels}}{\text{clustered labels}}$
-
-- s
+- $NMI = \frac{I(X;Y)}{min(H(X), H(Y}$
+- where, X denotes \text{reference labels} and Y stands for \text{clustered labels}
 
 2) 
