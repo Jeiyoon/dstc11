@@ -26,12 +26,7 @@
   - $ACC = \displaystyle\frac{\text{The num of aligned == ref}}{\text{The num of ref}} \text{\(if ref else 0\)}$
 
 
-- Clustering F1 (F1-score)
 
-  - Prediction-Based Metric
-  - Precision: a many-to-one alignment is computed from *cluster* labels to *reference* labels such that the number of correct aligned labels is maximized. 
-  - Recall: a many-to-one alignment is computed from *reference* labels to *cluster* labels such that the number of correct aligned labels is maximized.
-  - F1 = $\frac{\text{2 * precision * recall}}{\text{precision + recall}}$
 
 
 
@@ -41,6 +36,14 @@
 
   - Rand Index: https://taeguu.tistory.com/52
   - Adjusted Rand Index (ARI): https://taeguu.tistory.com/53?category=829266
+
+
+- Intent Classification F1-Score (Clustering F1)
+
+  - Prediction-Based Metric
+  - Precision: a many-to-one alignment is computed from *cluster* labels to *reference* labels such that the number of correct aligned labels is maximized. 
+  - Recall: a many-to-one alignment is computed from *reference* labels to *cluster* labels such that the number of correct aligned labels is maximized.
+  - F1 = $\frac{\text{2 * precision * recall}}{\text{precision + recall}}$
 
 
 - Intent Example Coverage
