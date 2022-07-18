@@ -22,7 +22,7 @@
 2) Accuracy (ACC)
 
 - Clustering Metric
-- $ACC = \displaystyle\frac{\# of aligned == ref}{\# of ref}$
+- $ACC = \displaystyle\frac{ # of aligned == ref}{ # of ref}$
 
 3) Clustering F1 (F1-score)
 
