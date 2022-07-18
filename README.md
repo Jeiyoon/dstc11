@@ -42,7 +42,7 @@
   - Prediction-Based Metric
   - Precision: a many-to-one alignment is computed from *cluster* labels to *reference* labels such that the number of correct aligned labels is maximized. 
   - Recall: a many-to-one alignment is computed from *reference* labels to *cluster* labels such that the number of correct aligned labels is maximized.
-  - F1 = $\frac{\text{2 * precision * recall}}{\text{precision + recall}}$
+  - $F1 = \frac{\text{2 * precision * recall}}{\text{precision + recall}}$
 
 
 - Intent Example Coverage
