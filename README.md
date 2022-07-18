@@ -15,8 +15,19 @@
 
 1) Normalized Mutual Information (NMI)
 
+- Clustering Metric
 - $NMI = \displaystyle\frac{I(X;Y)}{min(H(X), H(Y))}$
 - where, $X$ denotes Reference labels and $Y$ stands for clustered labels
+
+2) Accuracy (ACC)
+
+- Clustering Metric
+- $ACC = \displaystyle\frac{# of aligned == ref}{# of ref}$
+
+3) Clustering F1 (F1-score)
+
+- 
+
 
 
 ### Task 2
