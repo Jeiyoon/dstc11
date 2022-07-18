@@ -18,6 +18,7 @@
   - Clustering Metric
   - $NMI = \displaystyle\frac{I(X;Y)}{min(H(X), H(Y))}$
   - where, $X$ denotes Reference labels and $Y$ stands for clustered labels
+  - https://process-mining.tistory.com/141
 
 
 - Accuracy (ACC)
