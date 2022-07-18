@@ -31,7 +31,9 @@
 - Adjusted Rand Index (ARI)
 
   - Rand Index: https://taeguu.tistory.com/52
-  - Adjusted Rand Index (ARI): https://taeguu.tistory.com/53?category=829266
+  - Adjusted Rand Index (ARI): 
+    - https://taeguu.tistory.com/53?category=829266
+    - https://p829911.github.io/2019/01/05/clustering/
 
 
 - Intent Classification F1-Score (Clustering F1)
