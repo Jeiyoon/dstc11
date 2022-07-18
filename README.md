@@ -37,7 +37,12 @@
 
 ### Task 2
 
-1) Adjusted Rand Index (ARI):
+- Adjusted Rand Index (ARI)
 
-- Rand Index: https://taeguu.tistory.com/52
-- Adjusted Rand Index (ARI): https://taeguu.tistory.com/53?category=829266
+  - Rand Index: https://taeguu.tistory.com/52
+  - Adjusted Rand Index (ARI): https://taeguu.tistory.com/53?category=829266
+
+
+- Intent Example Coverage
+
+  - Coverage Metric
