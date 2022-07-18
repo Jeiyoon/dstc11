@@ -26,10 +26,6 @@
   - $ACC = \displaystyle\frac{\text{The num of aligned == ref}}{\text{The num of ref}} \text{\(if ref else 0\)}$
 
 
-
-
-
-
 ### Task 2
 
 - Adjusted Rand Index (ARI)
@@ -49,3 +45,4 @@
 - Intent Example Coverage
 
   - Coverage Metric
+  - Example Coverage is defined as percent of examples whose reference intent has a corresponding predicted cluster after performing a many-to-one alignment from predicted clusters to reference clusters.
