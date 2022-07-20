@@ -3,7 +3,8 @@ import os
 from dataclasses import dataclass, field, asdict
 from typing import List, Dict, Union
 
-
+# https://www.daleseo.com/python-dataclasses/
+# https://docs.python.org/ko/3/library/dataclasses.html
 @dataclass
 class Turn:
     """
@@ -15,6 +16,7 @@ class Turn:
     dialogue_acts: List[str] = field(default_factory=list)
     intents: List[str] = field(default_factory=list)
 
+    # https://firework-ham.tistory.com/101
     @classmethod
     def from_dict(cls, json_dict: Dict):
         return Turn(
