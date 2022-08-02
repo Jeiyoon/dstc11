@@ -6,7 +6,7 @@
   - No code available
 - [New Intent Discovery with Pre-training and Contrastive Learning (ACL 2022)](https://arxiv.org/pdf/2205.12914.pdf)
   - Code: [https://github.com/zhang-yu-wei/MTP-CLNN](https://github.com/fanolabs/NID_ACLARR2022)
-- [Dialog Intent Induction via Density-based Deep Clustering Ensemble (AAAI 2022)](https://arxiv.org/pdf/2201.06731.pdf)
+- [Dialog Intent Induction via Density-based Deep Clustering Ensemble (DSTC10 at AAAI 2022)](https://arxiv.org/pdf/2201.06731.pdf)
   - No code available
 - [Gaining Insights into Unrecognized User Utterances in Task-Oriented Dialog Systems (arxiv 2022)](https://arxiv.org/pdf/2204.05158.pdf)
   - No code available
